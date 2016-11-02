@@ -1,0 +1,2 @@
+vhdl isim_temp "PSRM.vhd"
+vhdl isim_temp "PSRM_TB.vhd"
